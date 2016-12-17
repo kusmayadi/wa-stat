@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/wa-stat":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/wa-stat","hostpath":"/Users/koes/Documents/Personal/Workspace/Web/wa-stat","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/koes/Documents/Personal/Workspace/Web/wa-stat","disabled":false,"__vagrantfile":true}}}
